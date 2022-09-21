@@ -1,5 +1,7 @@
 ## The XBPS source packages collection
 
+HELLO WORLD!
+
 This repository contains the XBPS source packages collection to build binary packages
 for the Void Linux distribution.
 
